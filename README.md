@@ -1,3 +1,3 @@
 # testsite
 
-https://leushtean.github.io/testsite/
+site: https://leushtean.github.io/testsite/
